@@ -7,3 +7,5 @@ What kind of food are you hungry for?
 ## [chinese](asian/chinese.md)
 ## [Japanese](asian/japanese.md)
 ## [Thai](asian/thai.md)
+## [Greek](european/greek.md)
+## [Mediterranean](european/mediterranean.md)
