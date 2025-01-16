@@ -8,4 +8,4 @@ What kind of food are you hungry for?
 ## [Japanese](asian/japanese.md)
 ## [Thai](asian/thai.md)
 ## [Greek](european/greek.md)
-## [Mediterranean](european/mediterranean.md)
+## [Mediterranean](european/ mediterranean.md)
